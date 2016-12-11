@@ -3,7 +3,7 @@ import smtplib
 fromAdrs = "mohanpugaz@gamil.com"
 toAdrs   = "mohanpugaz@gmail.com"
 username = "mohanpugaz"
-password = "kisses4uumma"
+password = "*********"
 msg      = "Render Completed"
 subject  = "render completed"
 
